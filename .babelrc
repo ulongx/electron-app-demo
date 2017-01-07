@@ -1,0 +1,11 @@
+/*设置需要装换的代码*/
+{
+    "presets": [
+        "es2015",
+        "react"
+    ],
+
+    "plugins": [
+        "transform-object-rest-spread"
+    ]
+}
